@@ -1,7 +1,7 @@
 # Noir – Dark Mode Extension
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/63915/m/noir-logo.png?v=1663080871" width="250" alt="Noir Logo"/>  
+  <img src="https://macx.ws/uploads/posts/2022-05/noir.png" width="250" alt="Noir Logo"/>  
 </div>  
 
 <br>  
